@@ -39,6 +39,19 @@
     "SYS_RAWIO",
     "SYS_RESOURCE"
   ],
+  "uart": true,
+  "usb": true,
+  "video": true,
+  "gpio": true,
+  "devices": [
+    "/dev/spidev0.0",
+    "/dev/vchiq",
+    "/dev/amvideo",
+    "/dev/fb0",
+    "/dev/mem",
+    "/dev/ttyUSB0",
+    "/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0"
+  ],
   "full_access": true,
   "webui": "http://[HOST]:[PORT:8090]",
   "init": false
