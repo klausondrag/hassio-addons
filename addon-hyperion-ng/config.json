@@ -49,8 +49,11 @@
     "/dev/amvideo",
     "/dev/fb0",
     "/dev/mem",
-    "/dev/ttyUSB0",
-    "/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0"
+    "/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0",
+    "/dev/ttyUSB0:/dev/ttyUSB0:rwm",
+    "/dev/ttyUSB1:/dev/ttyUSB1:rwm",
+    "/dev/ttyUSB2:/dev/ttyUSB2:rwm",
+    "/dev/ttyUSB3:/dev/ttyUSB3:rwm"
   ],
   "full_access": true,
   "webui": "http://[HOST]:[PORT:8090]",
