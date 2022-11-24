@@ -53,7 +53,8 @@
     "/dev/ttyUSB0:/dev/ttyUSB0:rwm",
     "/dev/ttyUSB1:/dev/ttyUSB1:rwm",
     "/dev/ttyUSB2:/dev/ttyUSB2:rwm",
-    "/dev/ttyUSB3:/dev/ttyUSB3:rwm"
+    "/dev/ttyUSB3:/dev/ttyUSB3:rwm",
+    "/dev/gpiomem:/dev/gpiomem"
   ],
   "full_access": true,
   "webui": "http://[HOST]:[PORT:8090]",
