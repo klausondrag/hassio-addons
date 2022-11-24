@@ -1,5 +1,5 @@
 {
-  "name": "Romanchuk (fork Jonathan's Home Assistant Add-Ons)",
-  "url": "https://github.com/Romanchuk/hassio-addons",
-  "maintainer": "Jonathan Bradshaw <jb@nrgup.net>"
+  "name": "Klaus Ondrag (fork Romanchuk's Home Assistant Add-Ons)",
+  "url": "https://github.com/klausondrag/hassio-addons",
+  "maintainer": "Klaus Ondrag <k@k.com>"
 }
